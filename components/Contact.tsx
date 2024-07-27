@@ -38,7 +38,7 @@ const Contact = () => {
             <input
               type="text"
               className="md:w-[30vw] border-solid border-2 border-white rounded-lg w-[90vw] mb-5 p-3 text-2xl bg-black text-white"
-              placeholder="Enter your email"
+              placeholder="Enter your name"
               name="name"
               required
             />
